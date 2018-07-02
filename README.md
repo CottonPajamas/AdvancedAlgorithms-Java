@@ -1,7 +1,8 @@
 # [Java] Advanced Algorithms in Java
-Maven project created to explore data structures and algorithms in Java.
+Maven project created to explore data structures and algorithms in Java. Will be continuously updated as I progress through the Udemy course.
 
 <br />
+
 
 ## Outline
 
